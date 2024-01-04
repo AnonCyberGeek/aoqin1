@@ -881,7 +881,7 @@ body {
 }
 .hero__img1 img {
 	justify-items: center;
-	width: 400px;
+	width: 300px;
 	-webkit-box-shadow: 5px 5px 150px rgba(242, 52, 40, 0.7);
 	        box-shadow: 5px 5px 150px rgba(242, 52, 40, 0.7);
 	border-radius: 50px;
